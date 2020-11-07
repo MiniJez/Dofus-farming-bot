@@ -1,1 +1,1 @@
-A farming bot for the game Dofus wrote in Python 3.
+A farming bot for the game Dofus wrote in NodeJS with RobotJS and iohooks.

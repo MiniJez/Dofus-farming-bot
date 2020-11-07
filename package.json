@@ -1,0 +1,21 @@
+{
+  "name": "Dofus_farming_bot",
+  "version": "1.0.0",
+  "description": "A farming bot for the game Dofus wrote in NodeJS with RobotJS and iohooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiniJez/Dofus-farming-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiniJez/Dofus-farming-bot/issues"
+  },
+  "homepage": "https://github.com/MiniJez/Dofus-farming-bot#readme"
+}
