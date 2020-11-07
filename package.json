@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/MiniJez/Dofus-farming-bot/issues"
   },
-  "homepage": "https://github.com/MiniJez/Dofus-farming-bot#readme"
+  "homepage": "https://github.com/MiniJez/Dofus-farming-bot#readme",
+  "dependencies": {
+    "iohook": "^0.6.6",
+    "nodemon": "^2.0.6",
+    "robotjs": "^0.6.0"
+  }
 }
