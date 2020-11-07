@@ -1,0 +1,1 @@
+A farming bot for the game Dofus wrote in Python 3.
