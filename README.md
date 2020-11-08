@@ -1,1 +1,1 @@
-A farming bot for the game Dofus wrote in NodeJS with RobotJS and iohooks.
+A farming bot for the game Dofus wrote in NodeJS (RobotJS and iohooks) and Python (pyautogui).

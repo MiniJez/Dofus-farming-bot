@@ -19,7 +19,13 @@
   },
   "homepage": "https://github.com/MiniJez/Dofus-farming-bot#readme",
   "dependencies": {
+    "bootstrap": "^4.5.3",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
     "iohook": "^0.6.6",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.10.13",
     "nodemon": "^2.0.6",
     "robotjs": "^0.6.0"
   }
